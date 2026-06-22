@@ -12,7 +12,7 @@
 
 🚀 Aprendendo algo novo todos os dias e documentando minha jornada por aqui.
 
-🛠️ Habilidades em desenvolvimento:
+🛠️ Habilidades em desenvolvimento:</br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="border-radius: 50%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="border-radius: 50%;" />
   <img width="12" />
@@ -22,8 +22,10 @@
 
 <h4>Vamos Conectar?</h4>
 <p>
-Entre em contato: <a href="mailto:pamelacrist219@gmail.com" target="_blank">pamelacrist219@gmail.com</a></br>
-LinkedIn: <a href="https://www.linkedin.com/in/p%C3%A2mela-cristina-061434275/" target="_blank">LinkedIn - Pâmela Cristina</a></br>
+Entre em contato: <a href="mailto:rodriguespamela197@gmail.com" target="_blank">pamelacrist219@gmail.com</a></br>
+LinkedIn: <a href="https://www.linkedin.com/in/p%C3%A2mela-barbosa-2598b43b8/" target="_blank">LinkedIn - Pâmela Barbosa</a></br>
+Lattes: <a href="https://lattes.cnpq.br/7140163229409828" target="_blank"> Lattes - Pâmela Barbosa</a></br>
+
 </p>
 
 ###
