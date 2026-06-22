@@ -23,9 +23,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=deeppink
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark-custom&color_snake=deeppink
         env:
-          SNK_PALETTE_GITHUB_DARK: "#161b22,#ffb6c1,#ff69b4,#ff1493,#c71585"
+          # Fundo cinza azulado claro e blocos rosas!
+          SNK_PALETTE_GITHUB_DARK_CUSTOM: "#2d333b,#ffb6c1,#ff69b4,#ff1493,#c71585"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: push github-contribution-grid-snake.svg to the output branch
