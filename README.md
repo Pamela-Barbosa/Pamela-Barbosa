@@ -40,6 +40,6 @@ LinkedIn: <a href="https://www.linkedin.com/in/p%C3%A2mela-cristina-061434275/" 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pamela-Barbosa/Pamela-Barbosa/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pamela-Barbosa/Pamela-Barbosa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
