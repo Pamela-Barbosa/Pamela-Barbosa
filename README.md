@@ -1,10 +1,3 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/p%C3%A2mela-barbosa-2598b43b8/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff00ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <img align="right" height="150" src="/getimg_ai-2024-09-20T04_18_24.368Z.png" style="border-radius: 15px; border: 2px solid #8A2BE2; object-fit: cover; width: 350px; height: 350px;" />
 
@@ -20,6 +13,7 @@
 🚀 Aprendendo algo novo todos os dias e documentando minha jornada por aqui.
 
 🛠️ Habilidades em desenvolvimento:
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="border-radius: 50%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="border-radius: 50%;" />
   <img width="12" />
@@ -47,6 +41,6 @@ LinkedIn: <a href="https://www.linkedin.com/in/p%C3%A2mela-cristina-061434275/" 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pamela-Barbosa/Pamela-Barbosa/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pamela-Barbosa/Pamela-Barbosa/output/snake.svg" alt="Snake animation" />
 
 ###
