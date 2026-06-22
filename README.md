@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://www.linkedin.com/in/p%C3%A2mela-barbosa-2598b43b8/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ff00ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<!--
-**Pamela-Barbosa/Pamela-Barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="right" height="150" src="/getimg_ai-2024-09-20T04_18_24.368Z.png" style="border-radius: 15px; border: 2px solid #8A2BE2; object-fit: cover; width: 350px; height: 350px;" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👋 Olá! Sou a Pâmela.
+
+🎓 Sistemas de Informação | IFC
+💡 Aluna do programa Futuro Digital (HBR/UDESC)
+💻 Focada em construir uma base sólida em lógica e desenvolvimento de software.
+🚀 Aprendendo algo novo todos os dias e documentando minha jornada por aqui.
+
+🛠️ Habilidades em desenvolvimento:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<h4>Vamos Conectar?</h4>
+<p>
+Entre em contato: <a href="mailto:pamelacrist219@gmail.com" target="_blank">pamelacrist219@gmail.com</a></br>
+LinkedIn: <a href="https://www.linkedin.com/in/p%C3%A2mela-cristina-061434275/" target="_blank">LinkedIn - Pâmela Cristina</a></br>
+</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pamelacrist&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=pamelacrist&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pamelacrist&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pamelacrist/pamelacrist/output/snake.svg" alt="Snake animation" />
+
+###
