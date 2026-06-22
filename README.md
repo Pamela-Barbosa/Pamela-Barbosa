@@ -12,14 +12,20 @@
 👋 Olá! Sou a Pâmela.
 
 🎓 Sistemas de Informação | IFC
+
 💡 Aluna do programa Futuro Digital (HBR/UDESC)
+
 💻 Focada em construir uma base sólida em lógica e desenvolvimento de software.
+
 🚀 Aprendendo algo novo todos os dias e documentando minha jornada por aqui.
 
 🛠️ Habilidades em desenvolvimento:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="border-radius: 50%;" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="border-radius: 50%;" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" style="border-radius: 50%;" />
 
 <h4>Vamos Conectar?</h4>
 <p>
@@ -41,6 +47,6 @@ LinkedIn: <a href="https://www.linkedin.com/in/p%C3%A2mela-cristina-061434275/" 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pamelacrist/pamelacrist/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pamela-Barbosa/Pamela-Barbosa/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
