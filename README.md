@@ -13,7 +13,6 @@
 🚀 Aprendendo algo novo todos os dias e documentando minha jornada por aqui.
 
 🛠️ Habilidades em desenvolvimento:
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="border-radius: 50%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="border-radius: 50%;" />
   <img width="12" />
