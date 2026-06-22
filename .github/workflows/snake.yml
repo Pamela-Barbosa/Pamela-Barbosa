@@ -26,7 +26,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark-custom&color_snake=deeppink
         env:
           # Fundo cinza azulado claro e blocos rosas!
-          SNK_PALETTE_GITHUB_DARK_CUSTOM: "#2d333b,#ffb6c1,#ff69b4,#ff1493,#c71585"
+          SNK_PALETTE_GITHUB_DARK_CUSTOM: "#3d4147,#ffb6c1,#ff69b4,#ff1493,#c71585"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: push github-contribution-grid-snake.svg to the output branch
